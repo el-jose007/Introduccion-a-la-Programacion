@@ -5,7 +5,7 @@ Si te sientes como un pollo sin cabeza 🐔 frente a un "Hola Mundo", has llegad
 Estos apuntes son tus superpoderes ✨. Úsalos con sabiduría, comparte la magia, ¡y conviértete en el próximo gurú de la programación! No te rindas, porque incluso los mejores programadores una vez creyeron que if era un condicional para pedir una pizza. 🍕 ¡A programar se ha dicho! 
 
 ---
-# Como usarlo el repositorio.
+# Como usar el repositorio.
 Cada carpeta tiene las explicaciones en su archivo ***readme.md** y los ejercicios con sus respuestas. ademas, tambien incluí una sección de ejercicios opcionales, aunque te recomiendo hacer esos antes que los de la catedra y despues hacer los otros. 
 
 ## Que te diviertas!
